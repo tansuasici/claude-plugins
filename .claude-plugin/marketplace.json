@@ -1,0 +1,58 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "tansuasici",
+  "owner": {
+    "name": "tansuasici",
+    "url": "https://github.com/tansuasici"
+  },
+  "metadata": {
+    "description": "Discipline kits for Claude Code. Install only the ones you want."
+  },
+  "plugins": [
+    {
+      "name": "claude-code-kit",
+      "source": {
+        "source": "github",
+        "repo": "tansuasici/claude-code-kit"
+      },
+      "description": "Plan → Confirm → Implement → Verify discipline for software work: hooks, skills, review agents and a CLAUDE.md ruleset.",
+      "author": {
+        "name": "tansuasici",
+        "url": "https://github.com/tansuasici"
+      },
+      "category": "workflow",
+      "homepage": "https://claudecodekit.tansuasici.com",
+      "license": "MIT"
+    },
+    {
+      "name": "claude-design-kit",
+      "source": {
+        "source": "github",
+        "repo": "tansuasici/claude-design-kit"
+      },
+      "description": "Brief → Direction → Build → Audit for interface work: a DESIGN_MAP.md direction file, slop and motion hooks, design skills and review agents.",
+      "author": {
+        "name": "tansuasici",
+        "url": "https://github.com/tansuasici"
+      },
+      "category": "workflow",
+      "homepage": "https://claudedesignkit.tansuasici.com",
+      "license": "MIT"
+    },
+    {
+      "name": "claude-research-kit",
+      "source": {
+        "source": "github",
+        "repo": "tansuasici/claude-research-kit"
+      },
+      "description": "Question → Evidence → Draft → Verify → Cite discipline for scholarly writing in LaTeX and BibTeX, with citation enforcement.",
+      "author": {
+        "name": "tansuasici",
+        "url": "https://github.com/tansuasici"
+      },
+      "category": "workflow",
+      "homepage": "https://clauderesearchkit.tansuasici.com",
+      "license": "MIT"
+    }
+  ]
+}
