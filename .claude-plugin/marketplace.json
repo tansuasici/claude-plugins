@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "claude-code-kit",
+      "name": "code-kit",
       "source": {
         "source": "github",
         "repo": "tansuasici/claude-code-kit"
@@ -25,7 +25,7 @@
       "license": "MIT"
     },
     {
-      "name": "claude-design-kit",
+      "name": "design-kit",
       "source": {
         "source": "github",
         "repo": "tansuasici/claude-design-kit"
@@ -40,7 +40,7 @@
       "license": "MIT"
     },
     {
-      "name": "claude-research-kit",
+      "name": "research-kit",
       "source": {
         "source": "github",
         "repo": "tansuasici/claude-research-kit"
