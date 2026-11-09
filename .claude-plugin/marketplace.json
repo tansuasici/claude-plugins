@@ -53,6 +53,21 @@
       "category": "workflow",
       "homepage": "https://clauderesearchkit.tansuasici.com",
       "license": "MIT"
+    },
+    {
+      "name": "marketing-kit",
+      "source": {
+        "source": "github",
+        "repo": "tansuasici/claude-marketing-kit"
+      },
+      "description": "Research → Position → Create → Gate → Measure for marketing your own product: a MARKETING_MAP.md evidence file, hooks that block unsourced social proof and gate publishing, skills and review agents.",
+      "author": {
+        "name": "tansuasici",
+        "url": "https://github.com/tansuasici"
+      },
+      "category": "workflow",
+      "homepage": "https://claudemarketingkit.tansuasici.com",
+      "license": "MIT"
     }
   ]
 }
