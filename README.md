@@ -1,6 +1,6 @@
 # tansuasici Claude Code plugins
 
-One marketplace for three discipline kits. Adding it installs nothing; you
+One marketplace for four discipline kits. Adding it installs nothing; you
 pick the kits you want.
 
 ```
@@ -14,6 +14,7 @@ Then install any of them:
 | [Claude Code Kit](https://claudecodekit.tansuasici.com) | `/plugin install code-kit@tansuasici` | Software work: plan, confirm, implement, verify |
 | [Claude Design Kit](https://claudedesignkit.tansuasici.com) | `/plugin install design-kit@tansuasici` | Interface work: brief, direction, build, audit |
 | [Claude Research Kit](https://clauderesearchkit.tansuasici.com) | `/plugin install research-kit@tansuasici` | Scholarly writing: evidence, draft, verify, cite |
+| [Claude Marketing Kit](https://claudemarketingkit.tansuasici.com) | `/plugin install marketing-kit@tansuasici` | Marketing your own product: research, position, create, gate, measure |
 
 Each kit lives in its own repository and is also published on npm
 (`npx @tansuasici/claude-<name>-kit init`) if you'd rather copy it into a
