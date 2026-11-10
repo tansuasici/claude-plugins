@@ -68,6 +68,21 @@
       "category": "workflow",
       "homepage": "https://claudemarketingkit.tansuasici.com",
       "license": "MIT"
+    },
+    {
+      "name": "video-kit",
+      "source": {
+        "source": "github",
+        "repo": "tansuasici/claude-video-kit"
+      },
+      "description": "Ingest → Select → Cut → Compose → Render → QC for editing your own video: an EDIT_MAP.md, read-only source footage, a licence register and checked renders.",
+      "author": {
+        "name": "tansuasici",
+        "url": "https://github.com/tansuasici"
+      },
+      "category": "workflow",
+      "homepage": "https://claudevideokit.tansuasici.com",
+      "license": "MIT"
     }
   ]
 }
